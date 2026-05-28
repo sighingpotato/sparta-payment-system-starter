@@ -21,3 +21,4 @@ Content-Type: application/json
 ### TC-7. 존재하지 않는 항목 삭제 — 기대: 404 Not Found
 DELETE http://localhost:8080/api/cart/items/999
 Authorization: Bearer {{authToken}}
+현
