@@ -1,4 +1,4 @@
-package com.sparta.paymentsystem.practice;
+package com.sparta.paymentsystem.practice.dto;
 
 public record ProductResponse(
         int id,
